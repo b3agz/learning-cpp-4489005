@@ -3,3 +3,5 @@ node_modules
 .tmp
 npm-debug.log
 src/Ch00/CodeDemo
+src/Ch01/01_02b/CodeDemo
+src/Ch01/01_03/CodeDemo
